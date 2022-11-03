@@ -1,0 +1,2116 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 II. Akka fr
+\f1 \uc0\u65533 
+\f0 n Kebnekajse\
+\
+Kv
+\f1 \uc0\u65533 
+\f0 llen\
+\
+Den stora tama g
+\f1 \uc0\u65533 
+\f0 skarlen, som hade f
+\f1 \uc0\u65533 
+\f0 ljt med upp i luften, k
+\f1 \uc0\u65533 
+\f0 nde sig\
+mycket stolt 
+\f1 \uc0\u65533 
+\f0 ver att f
+\f1 \uc0\u65533 
+\f0  fara fram och tillbaka 
+\f1 \uc0\u65533 
+\f0 ver S
+\f1 \uc0\u65533 
+\f0 dersl
+\f1 \uc0\u65533 
+\f0 tt i\
+s
+\f1 \uc0\u65533 
+\f0 llskap med vildg
+\f1 \uc0\u65533 
+\f0 ssen och f
+\f1 \uc0\u65533 
+\f0 ra spektakel med tamf
+\f1 \uc0\u65533 
+\f0 glarna.  Men hur\
+lycklig han 
+\f1 \uc0\u65533 
+\f0 n var, kunde det inte hj
+\f1 \uc0\u65533 
+\f0 lpas, att han b
+\f1 \uc0\u65533 
+\f0 rjade tr
+\f1 \uc0\u65533 
+\f0 ttna\
+framp
+\f1 \uc0\u65533 
+\f0  eftermiddagen.  Han f
+\f1 \uc0\u65533 
+\f0 rs
+\f1 \uc0\u65533 
+\f0 kte att ta djupare andetag och sl
+\f1 \uc0\u65533 
+\f0 \
+snabbare vingslag, men i alla fall blev han flera g
+\f1 \uc0\u65533 
+\f0 sl
+\f1 \uc0\u65533 
+\f0 ngder efter de\
+andra.\
+\
+D
+\f1 \uc0\u65533 
+\f0  de vildg
+\f1 \uc0\u65533 
+\f0 ssen, som fl
+\f1 \uc0\u65533 
+\f0 go sist, m
+\f1 \uc0\u65533 
+\f0 rkte, att den tame inte kunde\
+f
+\f1 \uc0\u65533 
+\f0 lja med, b
+\f1 \uc0\u65533 
+\f0 rjade de ropa till den g
+\f1 \uc0\u65533 
+\f0 sen, som for i spetsen av\
+vinkeln och ledde t
+\f1 \uc0\u65533 
+\f0 get: "Akka fr
+\f1 \uc0\u65533 
+\f0 n Kebnekajse! Akka fr
+\f1 \uc0\u65533 
+\f0 n Kebnekajse!"\
+- "Vad vill ni mig?" fr
+\f1 \uc0\u65533 
+\f0 gade d
+\f1 \uc0\u65533 
+\f0  f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen. - "Den vite blir\
+efter. Den vite blir efter." - "S
+\f1 \uc0\u65533 
+\f0 g honom, att det g
+\f1 \uc0\u65533 
+\f0 r l
+\f1 \uc0\u65533 
+\f0 ttare att\
+flyga fort 
+\f1 \uc0\u65533 
+\f0 n l
+\f1 \uc0\u65533 
+\f0 ngsamt!" ropade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen och str
+\f1 \uc0\u65533 
+\f0 ckte p
+\f1 \uc0\u65533 
+\f0  som f
+\f1 \uc0\u65533 
+\f0 rut.\
+\
+G
+\f1 \uc0\u65533 
+\f0 skarlen f
+\f1 \uc0\u65533 
+\f0 rs
+\f1 \uc0\u65533 
+\f0 kte nog att f
+\f1 \uc0\u65533 
+\f0 lja r
+\f1 \uc0\u65533 
+\f0 det och 
+\f1 \uc0\u65533 
+\f0 ka farten, men d
+\f1 \uc0\u65533 
+\f0 rvid blev\
+han s
+\f1 \uc0\u65533 
+\f0  utmattad, att han sj
+\f1 \uc0\u65533 
+\f0 nk 
+\f1 \uc0\u65533 
+\f0 nda ner mot de klippta piltr
+\f1 \uc0\u65533 
+\f0 den, som\
+kantade 
+\f1 \uc0\u65533 
+\f0 krar och 
+\f1 \uc0\u65533 
+\f0 ngar.\
+\
+"Akka, Akka, Akka fr
+\f1 \uc0\u65533 
+\f0 n Kebnekajse!" ropade d
+\f1 \uc0\u65533 
+\f0  de, som fl
+\f1 \uc0\u65533 
+\f0 go sist och\
+s
+\f1 \uc0\u65533 
+\f0 go hur sv
+\f1 \uc0\u65533 
+\f0 rt han hade det.  - "Vad vill ni nu igen?" fr
+\f1 \uc0\u65533 
+\f0 gade\
+f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen och l
+\f1 \uc0\u65533 
+\f0 t fasligt vresig. - "Den vite sjunker till jorden.\
+Den vite sjunker till jorden." - "S
+\f1 \uc0\u65533 
+\f0 g honom, att det g
+\f1 \uc0\u65533 
+\f0 r l
+\f1 \uc0\u65533 
+\f0 ttare att\
+flyga h
+\f1 \uc0\u65533 
+\f0 gt 
+\f1 \uc0\u65533 
+\f0 n l
+\f1 \uc0\u65533 
+\f0 gt!" ropade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen. Och hon saktade inte farten\
+det minsta, utan str
+\f1 \uc0\u65533 
+\f0 ckte p
+\f1 \uc0\u65533 
+\f0  som f
+\f1 \uc0\u65533 
+\f0 rut.\
+\
+G
+\f1 \uc0\u65533 
+\f0 skarlen f
+\f1 \uc0\u65533 
+\f0 rs
+\f1 \uc0\u65533 
+\f0 kte f
+\f1 \uc0\u65533 
+\f0 lja ocks
+\f1 \uc0\u65533 
+\f0  detta r
+\f1 \uc0\u65533 
+\f0 det, men n
+\f1 \uc0\u65533 
+\f0 r han ville h
+\f1 \uc0\u65533 
+\f0 ja\
+sig, blev han s
+\f1 \uc0\u65533 
+\f0  andf
+\f1 \uc0\u65533 
+\f0 dd, att han h
+\f1 \uc0\u65533 
+\f0 ll p
+\f1 \uc0\u65533 
+\f0  att spr
+\f1 \uc0\u65533 
+\f0 nga br
+\f1 \uc0\u65533 
+\f0 stet.\
+\
+"Akka, Akka!" ropade d
+\f1 \uc0\u65533 
+\f0  de, som fl
+\f1 \uc0\u65533 
+\f0 go sist. - "Kan ni inte l
+\f1 \uc0\u65533 
+\f0 ta mig\
+flyga i fred?" fr
+\f1 \uc0\u65533 
+\f0 gade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen och l
+\f1 \uc0\u65533 
+\f0 t mer ot
+\f1 \uc0\u65533 
+\f0 lig 
+\f1 \uc0\u65533 
+\f0 n f
+\f1 \uc0\u65533 
+\f0 rut. - "Den\
+vite h
+\f1 \uc0\u65533 
+\f0 ller p
+\f1 \uc0\u65533 
+\f0  att st
+\f1 \uc0\u65533 
+\f0 rta. Den vite h
+\f1 \uc0\u65533 
+\f0 ller p
+\f1 \uc0\u65533 
+\f0  att st
+\f1 \uc0\u65533 
+\f0 rta."  - "S
+\f1 \uc0\u65533 
+\f0 g\
+honom, att den, som inte orkar f
+\f1 \uc0\u65533 
+\f0 lja med flocken, kan v
+\f1 \uc0\u65533 
+\f0 nda om hem!"\
+ropade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen.  Och det f
+\f1 \uc0\u65533 
+\f0 ll henne visst inte in att sakta farten,\
+utan hon str
+\f1 \uc0\u65533 
+\f0 ckte p
+\f1 \uc0\u65533 
+\f0  som f
+\f1 \uc0\u65533 
+\f0 rut.\
+\
+"Jas
+\f1 \uc0\u65533 
+\f0 , st
+\f1 \uc0\u65533 
+\f0 r det till p
+\f1 \uc0\u65533 
+\f0  det viset", t
+\f1 \uc0\u65533 
+\f0 nkte g
+\f1 \uc0\u65533 
+\f0 skarlen. Han begrep men\
+ens, att vildg
+\f1 \uc0\u65533 
+\f0 ssen aldrig hade 
+\f1 \uc0\u65533 
+\f0 mnat ta honom med sig upp till\
+Lappland. De hade bara lockat honom hemifr
+\f1 \uc0\u65533 
+\f0 n p
+\f1 \uc0\u65533 
+\f0  lek.\
+\
+Han k
+\f1 \uc0\u65533 
+\f0 nde sig bra f
+\f1 \uc0\u65533 
+\f0 rargad 
+\f1 \uc0\u65533 
+\f0 ver att krafterna nu skulle svika honom,\
+s
+\f1 \uc0\u65533 
+\f0  att han inte fick visa de d
+\f1 \uc0\u65533 
+\f0 r landstrykarna, att ocks
+\f1 \uc0\u65533 
+\f0  en tamg
+\f1 \uc0\u65533 
+\f0 s\
+kunde duga till n
+\f1 \uc0\u65533 
+\f0 got. Och det allra harmligaste var, att han hade\
+r
+\f1 \uc0\u65533 
+\f0 kat samman med Akka fr
+\f1 \uc0\u65533 
+\f0 n Kebnekajse. F
+\f1 \uc0\u65533 
+\f0 r s
+\f1 \uc0\u65533 
+\f0  tamg
+\f1 \uc0\u65533 
+\f0 s han var, hade han\
+h
+\f1 \uc0\u65533 
+\f0 rt talas om en f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 s, som hette Akka och var mer 
+\f1 \uc0\u65533 
+\f0 n hundra 
+\f1 \uc0\u65533 
+\f0 r\
+gammal. Hon hade s
+\f1 \uc0\u65533 
+\f0  stort anseende, att de b
+\f1 \uc0\u65533 
+\f0 sta vildg
+\f1 \uc0\u65533 
+\f0 ss, som funnos,\
+brukade sluta sig till henne. Men ingen hade ett s
+\f1 \uc0\u65533 
+\f0 dant f
+\f1 \uc0\u65533 
+\f0 rakt f
+\f1 \uc0\u65533 
+\f0 r\
+tamg
+\f1 \uc0\u65533 
+\f0 ss som Akka och hennes flock, och g
+\f1 \uc0\u65533 
+\f0 rna hade han velat visa dem,\
+att han var deras j
+\f1 \uc0\u65533 
+\f0 mlike.\
+\
+Han fl
+\f1 \uc0\u65533 
+\f0 g sakta efter de andra, medan han 
+\f1 \uc0\u65533 
+\f0 verlade med sig sj
+\f1 \uc0\u65533 
+\f0 lv om han\
+skulle v
+\f1 \uc0\u65533 
+\f0 nda eller forts
+\f1 \uc0\u65533 
+\f0 tta.  D
+\f1 \uc0\u65533 
+\f0  sade pl
+\f1 \uc0\u65533 
+\f0 tsligen den d
+\f1 \uc0\u65533 
+\f0 r parveln, som\
+han bar p
+\f1 \uc0\u65533 
+\f0  sin rygg: "K
+\f1 \uc0\u65533 
+\f0 ra M
+\f1 \uc0\u65533 
+\f0 rten g
+\f1 \uc0\u65533 
+\f0 skarl, du f
+\f1 \uc0\u65533 
+\f0 rst
+\f1 \uc0\u65533 
+\f0 r v
+\f1 \uc0\u65533 
+\f0 l, att det 
+\f1 \uc0\u65533 
+\f0 r\
+om
+\f1 \uc0\u65533 
+\f0 jligt f
+\f1 \uc0\u65533 
+\f0 r dig, som aldrig har flugit f
+\f1 \uc0\u65533 
+\f0 rr, att f
+\f1 \uc0\u65533 
+\f0 lja med vildg
+\f1 \uc0\u65533 
+\f0 ssen\
+
+\f1 \uc0\u65533 
+\f0 nd
+\f1 \uc0\u65533 
+\f0  opp till Lappland. Ska du inte v
+\f1 \uc0\u65533 
+\f0 nda om hem, innan du f
+\f1 \uc0\u65533 
+\f0 rst
+\f1 \uc0\u65533 
+\f0 r\
+dig?"\
+\
+Men husmanspojken var den v
+\f1 \uc0\u65533 
+\f0 rsta g
+\f1 \uc0\u65533 
+\f0 skarlen visste, och inte f
+\f1 \uc0\u65533 
+\f0 rr\
+begrep han, att den stackarn trodde, att han inte kunde g
+\f1 \uc0\u65533 
+\f0 ra f
+\f1 \uc0\u65533 
+\f0 rden,\
+
+\f1 \uc0\u65533 
+\f0 n han besl
+\f1 \uc0\u65533 
+\f0 t att h
+\f1 \uc0\u65533 
+\f0 lla ut. "S
+\f1 \uc0\u65533 
+\f0 ger du ett ord mer om detta, kastar jag\
+ner dig i f
+\f1 \uc0\u65533 
+\f0 rsta m
+\f1 \uc0\u65533 
+\f0 rgelgrav, som vi far fram 
+\f1 \uc0\u65533 
+\f0 ver," sade han och fick\
+p
+\f1 \uc0\u65533 
+\f0  samma g
+\f1 \uc0\u65533 
+\f0 ng s
+\f1 \uc0\u65533 
+\f0 dana krafter av f
+\f1 \uc0\u65533 
+\f0 rargelsen, att han b
+\f1 \uc0\u65533 
+\f0 rjade flyga\
+n
+\f1 \uc0\u65533 
+\f0 stan lika bra som n
+\f1 \uc0\u65533 
+\f0 gon av de andra.\
+\
+L
+\f1 \uc0\u65533 
+\f0 nge hade han nog inte kunnat forts
+\f1 \uc0\u65533 
+\f0 tta p
+\f1 \uc0\u65533 
+\f0  det viset, men det\
+beh
+\f1 \uc0\u65533 
+\f0 vdes inte heller, d
+\f1 \uc0\u65533 
+\f0 rf
+\f1 \uc0\u65533 
+\f0 r att nu sj
+\f1 \uc0\u65533 
+\f0 nk solen hastigt, och just i\
+solnedg
+\f1 \uc0\u65533 
+\f0 ngen satte g
+\f1 \uc0\u65533 
+\f0 ssen av r
+\f1 \uc0\u65533 
+\f0 tt ner
+\f1 \uc0\u65533 
+\f0 t. Och innan pojken och\
+g
+\f1 \uc0\u65533 
+\f0 skarlen visste ordet av, stodo de p
+\f1 \uc0\u65533 
+\f0  stranden av Vomsj
+\f1 \uc0\u65533 
+\f0 n.\
+\
+"H
+\f1 \uc0\u65533 
+\f0 r 
+\f1 \uc0\u65533 
+\f0 r det v
+\f1 \uc0\u65533 
+\f0 l allt meningen att vi ska stanna 
+\f1 \uc0\u65533 
+\f0 ver natten," t
+\f1 \uc0\u65533 
+\f0 nkte\
+pojken och sprang ner fr
+\f1 \uc0\u65533 
+\f0 n g
+\f1 \uc0\u65533 
+\f0 skarlens rygg.\
+\
+Han stod p
+\f1 \uc0\u65533 
+\f0  en smal sandstrand, och framf
+\f1 \uc0\u65533 
+\f0 r honom l
+\f1 \uc0\u65533 
+\f0 g en t
+\f1 \uc0\u65533 
+\f0 mligen stor\
+sj
+\f1 \uc0\u65533 
+\f0 . Den var stygg att se p
+\f1 \uc0\u65533 
+\f0 , f
+\f1 \uc0\u65533 
+\f0 r den var n
+\f1 \uc0\u65533 
+\f0 stan alldeles t
+\f1 \uc0\u65533 
+\f0 ckt av en\
+isskorpa, som var svartnad och oj
+\f1 \uc0\u65533 
+\f0 mn och full av sprickor och h
+\f1 \uc0\u65533 
+\f0 l,\
+s
+\f1 \uc0\u65533 
+\f0 som det brukade vara med v
+\f1 \uc0\u65533 
+\f0 ris. Men isen hade nog inte l
+\f1 \uc0\u65533 
+\f0 ng tid\
+igen. Den var redan landl
+\f1 \uc0\u65533 
+\f0 s och hade runt omkring sig ett brett b
+\f1 \uc0\u65533 
+\f0 lte\
+av svart, blankt vatten. 
+\f1 \uc0\u65533 
+\f0 nnu fanns den dock kvar och spred k
+\f1 \uc0\u65533 
+\f0 ld och\
+vinterhemskhet 
+\f1 \uc0\u65533 
+\f0 ver nejden.\
+\
+P
+\f1 \uc0\u65533 
+\f0  andra sidan sj
+\f1 \uc0\u65533 
+\f0 n tycktes det finnas 
+\f1 \uc0\u65533 
+\f0 ppen och ljus bygd, men d
+\f1 \uc0\u65533 
+\f0 r\
+g
+\f1 \uc0\u65533 
+\f0 ssen hade slagit ner, l
+\f1 \uc0\u65533 
+\f0 g en stor tallplantering. Och det s
+\f1 \uc0\u65533 
+\f0 g ut,\
+som om barrskogen skulle ha makt att binda vintern vid sig.  
+\f1 \uc0\u65533 
+\f0 verallt\
+eljest var marken bar, men under de risiga grenarna l
+\f1 \uc0\u65533 
+\f0 g det sn
+\f1 \uc0\u65533 
+\f0 , som\
+hade smultit och frusit, smultit och frusit, s
+\f1 \uc0\u65533 
+\f0  att den var h
+\f1 \uc0\u65533 
+\f0 rd som\
+is.\
+\
+Pojken tyckte, att han hade kommit till ett vildmarks- och vinterland,\
+och han k
+\f1 \uc0\u65533 
+\f0 nde sig s
+\f1 \uc0\u65533 
+\f0  
+\f1 \uc0\u65533 
+\f0 ngslig, att han hade velat storskrika.\
+\
+Han var hungrig. Han hade ingenting 
+\f1 \uc0\u65533 
+\f0 tit p
+\f1 \uc0\u65533 
+\f0  hela dagen. Men var skulle\
+han ta mat ifr
+\f1 \uc0\u65533 
+\f0 n? Den v
+\f1 \uc0\u65533 
+\f0 xer ingenting 
+\f1 \uc0\u65533 
+\f0 tbart p
+\f1 \uc0\u65533 
+\f0  mark eller tr
+\f1 \uc0\u65533 
+\f0 d i mars\
+m
+\f1 \uc0\u65533 
+\f0 nad.\
+\
+Ja, var skulle han f
+\f1 \uc0\u65533 
+\f0  mat ifr
+\f1 \uc0\u65533 
+\f0 n, och vem skulle ge honom husrum, och\
+vem skulle b
+\f1 \uc0\u65533 
+\f0 dda hans s
+\f1 \uc0\u65533 
+\f0 ng, och vem skulle v
+\f1 \uc0\u65533 
+\f0 rma honom vid sin eld,\
+och vem skulle skydda honom fr
+\f1 \uc0\u65533 
+\f0 n vilddjuren?\
+\
+F
+\f1 \uc0\u65533 
+\f0 r nu var solen borta, och nu kom det k
+\f1 \uc0\u65533 
+\f0 ld fr
+\f1 \uc0\u65533 
+\f0 n sj
+\f1 \uc0\u65533 
+\f0 n, och m
+\f1 \uc0\u65533 
+\f0 rker\
+sj
+\f1 \uc0\u65533 
+\f0 nk ner fr
+\f1 \uc0\u65533 
+\f0 n himlen, och fasa sm
+\f1 \uc0\u65533 
+\f0 g fram i skymningens sp
+\f1 \uc0\u65533 
+\f0 r och i\
+skogen b
+\f1 \uc0\u65533 
+\f0 rjade det att tassa och prassla.\
+\
+Nu var det f
+\f1 \uc0\u65533 
+\f0 rbi med det glada modet, som pojken hade k
+\f1 \uc0\u65533 
+\f0 nt, medan han\
+var uppe i luften, och i sin 
+\f1 \uc0\u65533 
+\f0 ngslan s
+\f1 \uc0\u65533 
+\f0 g han sig om efter\
+reskamraterna. Han hade ju inga andra att h
+\f1 \uc0\u65533 
+\f0 lla sig till.\
+\
+D
+\f1 \uc0\u65533 
+\f0  fick han se, att g
+\f1 \uc0\u65533 
+\f0 skarlen hade det 
+\f1 \uc0\u65533 
+\f0 nnu s
+\f1 \uc0\u65533 
+\f0 mre 
+\f1 \uc0\u65533 
+\f0 n han sj
+\f1 \uc0\u65533 
+\f0 lv. Han\
+l
+\f1 \uc0\u65533 
+\f0 g kvar p
+\f1 \uc0\u65533 
+\f0  samma st
+\f1 \uc0\u65533 
+\f0 lle, d
+\f1 \uc0\u65533 
+\f0 r han hade slagit ner, och det s
+\f1 \uc0\u65533 
+\f0 g ut, som\
+om han h
+\f1 \uc0\u65533 
+\f0 ll p
+\f1 \uc0\u65533 
+\f0  att d
+\f1 \uc0\u65533 
+\f0 . Halsen l
+\f1 \uc0\u65533 
+\f0 g slak utefter marken, 
+\f1 \uc0\u65533 
+\f0 gonen voro\
+slutna, och andedr
+\f1 \uc0\u65533 
+\f0 kten kom bara som ett svagt v
+\f1 \uc0\u65533 
+\f0 sande.\
+\
+"K
+\f1 \uc0\u65533 
+\f0 ra M
+\f1 \uc0\u65533 
+\f0 rten g
+\f1 \uc0\u65533 
+\f0 skarl," sade pojken, "f
+\f1 \uc0\u65533 
+\f0 rs
+\f1 \uc0\u65533 
+\f0 k att f
+\f1 \uc0\u65533 
+\f0  dig en klunk\
+vatten! Det 
+\f1 \uc0\u65533 
+\f0 r inte tv
+\f1 \uc0\u65533 
+\f0  steg till sj
+\f1 \uc0\u65533 
+\f0 n."\
+\
+Men g
+\f1 \uc0\u65533 
+\f0 skarlen gjorde inte en r
+\f1 \uc0\u65533 
+\f0 relse. \
+\
+Pojken hade nog varit h
+\f1 \uc0\u65533 
+\f0 rd mot alla djur och mot g
+\f1 \uc0\u65533 
+\f0 skarlen ocks
+\f1 \uc0\u65533 
+\f0  f
+\f1 \uc0\u65533 
+\f0 rr\
+i v
+\f1 \uc0\u65533 
+\f0 rlden, men nu tyckte han, att g
+\f1 \uc0\u65533 
+\f0 skarlen var det enda st
+\f1 \uc0\u65533 
+\f0 d han\
+hade, och han blev fasligt r
+\f1 \uc0\u65533 
+\f0 dd f
+\f1 \uc0\u65533 
+\f0 r att mista honom. Han b
+\f1 \uc0\u65533 
+\f0 rjade\
+genast knuffa honom och skjuta p
+\f1 \uc0\u65533 
+\f0  honom f
+\f1 \uc0\u65533 
+\f0 r att f
+\f1 \uc0\u65533 
+\f0  honom ner till\
+vattnet. G
+\f1 \uc0\u65533 
+\f0 skarlen var stor och tung, s
+\f1 \uc0\u65533 
+\f0  att det blev ett drygt arbete\
+f
+\f1 \uc0\u65533 
+\f0 r pojken, men till sist lyckades han.\
+\
+G
+\f1 \uc0\u65533 
+\f0 skarlen kom ner i sj
+\f1 \uc0\u65533 
+\f0 n med huvudet f
+\f1 \uc0\u65533 
+\f0 re. Ett 
+\f1 \uc0\u65533 
+\f0 gonblick l
+\f1 \uc0\u65533 
+\f0 g han\
+stilla i dyn, men snart stack han upp n
+\f1 \uc0\u65533 
+\f0 bben, skakade vattnet ur\
+
+\f1 \uc0\u65533 
+\f0 gonen och fnyste. D
+\f1 \uc0\u65533 
+\f0 rp
+\f1 \uc0\u65533 
+\f0  sam han stolt in mellan vass och kaveldun.\
+\
+Vildg
+\f1 \uc0\u65533 
+\f0 ssen l
+\f1 \uc0\u65533 
+\f0 go i sj
+\f1 \uc0\u65533 
+\f0 n f
+\f1 \uc0\u65533 
+\f0 re honom. De hade inte sett sig om varken\
+efter g
+\f1 \uc0\u65533 
+\f0 skarlen eller g
+\f1 \uc0\u65533 
+\f0 sryttaren, utan genast rusat ner i vattnet. De\
+hade badat och putsat sig, och nu l
+\f1 \uc0\u65533 
+\f0 go de och s
+\f1 \uc0\u65533 
+\f0 rplade i sig\
+halvrutten nate och vattenkl
+\f1 \uc0\u65533 
+\f0 ver.\
+\
+Den vita g
+\f1 \uc0\u65533 
+\f0 skarlen hade den lyckan att f
+\f1 \uc0\u65533 
+\f0  syn p
+\f1 \uc0\u65533 
+\f0  en liten abborre. Den\
+grep han raskt, sam intill stranden med den och lade den framf
+\f1 \uc0\u65533 
+\f0 r\
+pojken. "H
+\f1 \uc0\u65533 
+\f0 r ska du f
+\f1 \uc0\u65533 
+\f0 , till tack f
+\f1 \uc0\u65533 
+\f0 r att du hj
+\f1 \uc0\u65533 
+\f0 lpte mig ner i\
+vattnet," sade han.\
+\
+Det var f
+\f1 \uc0\u65533 
+\f0 rsta g
+\f1 \uc0\u65533 
+\f0 ngen p
+\f1 \uc0\u65533 
+\f0  hela den dagen, som pojken h
+\f1 \uc0\u65533 
+\f0 rde ett v
+\f1 \uc0\u65533 
+\f0 nligt\
+ord. Han blev s
+\f1 \uc0\u65533 
+\f0  glad, att han hade velat sl
+\f1 \uc0\u65533 
+\f0  armarna om halsen p
+\f1 \uc0\u65533 
+\f0 \
+g
+\f1 \uc0\u65533 
+\f0 skarlen, men det kom han sig inte f
+\f1 \uc0\u65533 
+\f0 r med. Och 
+\f1 \uc0\u65533 
+\f0 t g
+\f1 \uc0\u65533 
+\f0 van blev han\
+ocks
+\f1 \uc0\u65533 
+\f0  glad. F
+\f1 \uc0\u65533 
+\f0 rst tyckte han nog, att det skulle vara om
+\f1 \uc0\u65533 
+\f0 jligt att 
+\f1 \uc0\u65533 
+\f0 ta\
+r
+\f1 \uc0\u65533 
+\f0  fisk, men s
+\f1 \uc0\u65533 
+\f0  fick han 
+\f1 \uc0\u65533 
+\f0 nd
+\f1 \uc0\u65533 
+\f0  lust att f
+\f1 \uc0\u65533 
+\f0 rs
+\f1 \uc0\u65533 
+\f0 ka.\
+\
+Han k
+\f1 \uc0\u65533 
+\f0 nde efter om han hade f
+\f1 \uc0\u65533 
+\f0 tt slidkniven med sig, och som v
+\f1 \uc0\u65533 
+\f0 l var,\
+h
+\f1 \uc0\u65533 
+\f0 ngde den kvar bak p
+\f1 \uc0\u65533 
+\f0  byxknappen, fast den var s
+\f1 \uc0\u65533 
+\f0  f
+\f1 \uc0\u65533 
+\f0 rminskad, att den\
+inte var s
+\f1 \uc0\u65533 
+\f0  l
+\f1 \uc0\u65533 
+\f0 ng som en t
+\f1 \uc0\u65533 
+\f0 ndsticka. N
+\f1 \uc0\u65533 
+\f0 , den dugde i alla fall till att\
+fj
+\f1 \uc0\u65533 
+\f0 lla och rensa fisken med, och det dr
+\f1 \uc0\u65533 
+\f0 jde inte l
+\f1 \uc0\u65533 
+\f0 nge, innan abborren\
+var upp
+\f1 \uc0\u65533 
+\f0 ten.\
+\
+D
+\f1 \uc0\u65533 
+\f0  pojken v
+\f1 \uc0\u65533 
+\f0 l var m
+\f1 \uc0\u65533 
+\f0 tt, k
+\f1 \uc0\u65533 
+\f0 nde han sig allt skamsen 
+\f1 \uc0\u65533 
+\f0 ver att han hade\
+kunnat 
+\f1 \uc0\u65533 
+\f0 ta n
+\f1 \uc0\u65533 
+\f0 got r
+\f1 \uc0\u65533 
+\f0 tt. "Det syns, att jag inte 
+\f1 \uc0\u65533 
+\f0 r en m
+\f1 \uc0\u65533 
+\f0 nniska mer,\
+utan en riktig tomte", t
+\f1 \uc0\u65533 
+\f0 nkte han.\
+\
+Hela tiden, som pojken 
+\f1 \uc0\u65533 
+\f0 t, stod g
+\f1 \uc0\u65533 
+\f0 skarlen tyst bredvid honom, men n
+\f1 \uc0\u65533 
+\f0 r\
+han hade sv
+\f1 \uc0\u65533 
+\f0 ljt sista biten, sade han med l
+\f1 \uc0\u65533 
+\f0 g r
+\f1 \uc0\u65533 
+\f0 st: "Det 
+\f1 \uc0\u65533 
+\f0 r s
+\f1 \uc0\u65533 
+\f0 . att vi\
+har r
+\f1 \uc0\u65533 
+\f0 kat ut f
+\f1 \uc0\u65533 
+\f0 r ett morskt g
+\f1 \uc0\u65533 
+\f0 sfolk, som f
+\f1 \uc0\u65533 
+\f0 raktar all tamf
+\f1 \uc0\u65533 
+\f0 gel." -\
+"Ja, jag har nog m
+\f1 \uc0\u65533 
+\f0 rkt det," sade pojken. - "Det skulle allt vara\
+mycket hedersamt f
+\f1 \uc0\u65533 
+\f0 r mig, om jag kunde f
+\f1 \uc0\u65533 
+\f0 lja med dem 
+\f1 \uc0\u65533 
+\f0 nda opp till\
+Lappland och visa dem, att ocks
+\f1 \uc0\u65533 
+\f0  en tamg
+\f1 \uc0\u65533 
+\f0 s kan duga till n
+\f1 \uc0\u65533 
+\f0 got." -\
+"Jaa," sade pojken och drog p
+\f1 \uc0\u65533 
+\f0  det, f
+\f1 \uc0\u65533 
+\f0 r han trodde inte, att g
+\f1 \uc0\u65533 
+\f0 skarlen\
+kunde g
+\f1 \uc0\u65533 
+\f0  i land med detta, men han ville inte s
+\f1 \uc0\u65533 
+\f0 ga emot honom. - "Men\
+jag tror inte, att jag kan reda mig ensam p
+\f1 \uc0\u65533 
+\f0  en s
+\f1 \uc0\u65533 
+\f0 dan resa," sade\
+g
+\f1 \uc0\u65533 
+\f0 skarlen, "utan jag vill fr
+\f1 \uc0\u65533 
+\f0 ga om inte du kunde f
+\f1 \uc0\u65533 
+\f0 lja med och hj
+\f1 \uc0\u65533 
+\f0 lpa\
+mig."\
+\
+Pojken hade f
+\f1 \uc0\u65533 
+\f0 rst
+\f1 \uc0\u65533 
+\f0 s inte t
+\f1 \uc0\u65533 
+\f0 nkt sig annat 
+\f1 \uc0\u65533 
+\f0 n att v
+\f1 \uc0\u65533 
+\f0 nda om hem s
+\f1 \uc0\u65533 
+\f0  snart\
+som m
+\f1 \uc0\u65533 
+\f0 jligt, och han blev s
+\f1 \uc0\u65533 
+\f0  f
+\f1 \uc0\u65533 
+\f0 rv
+\f1 \uc0\u65533 
+\f0 nad, att han inte visste vad han\
+skulle svara. "Jag trodde, att vi var ov
+\f1 \uc0\u65533 
+\f0 nner, du och jag," sade\
+han. Men det tycktes g
+\f1 \uc0\u65533 
+\f0 skarlen alldeles ha gl
+\f1 \uc0\u65533 
+\f0 mt. Han kom bara ih
+\f1 \uc0\u65533 
+\f0 g,\
+att pojken just nyss hade r
+\f1 \uc0\u65533 
+\f0 ddat livet p
+\f1 \uc0\u65533 
+\f0  honom.\
+\
+"Jag skulle v
+\f1 \uc0\u65533 
+\f0 l allt hem till far och mor," sade pojken, - "Ja, nog\
+ska jag f
+\f1 \uc0\u65533 
+\f0 ra dig tillbaka till dem framp
+\f1 \uc0\u65533 
+\f0  h
+\f1 \uc0\u65533 
+\f0 sten," sade\
+g
+\f1 \uc0\u65533 
+\f0 skarlen. "Jag ska inte l
+\f1 \uc0\u65533 
+\f0 mna dig, f
+\f1 \uc0\u65533 
+\f0 rr
+\f1 \uc0\u65533 
+\f0 n jag ska s
+\f1 \uc0\u65533 
+\f0 tta ner dig p
+\f1 \uc0\u65533 
+\f0 \
+d
+\f1 \uc0\u65533 
+\f0 rrtr
+\f1 \uc0\u65533 
+\f0 skeln d
+\f1 \uc0\u65533 
+\f0 rhemma."\
+\
+Pojken t
+\f1 \uc0\u65533 
+\f0 nkte, att det kunde vara r
+\f1 \uc0\u65533 
+\f0 tt s
+\f1 \uc0\u65533 
+\f0  bra att slippa visa sig f
+\f1 \uc0\u65533 
+\f0 r\
+f
+\f1 \uc0\u65533 
+\f0 r
+\f1 \uc0\u65533 
+\f0 ldrarna 
+\f1 \uc0\u65533 
+\f0 n p
+\f1 \uc0\u65533 
+\f0  en tid. Han var inte oh
+\f1 \uc0\u65533 
+\f0 gad f
+\f1 \uc0\u65533 
+\f0 r f
+\f1 \uc0\u65533 
+\f0 rslaget, och han\
+skulle just s
+\f1 \uc0\u65533 
+\f0 ga, att han gick in p
+\f1 \uc0\u65533 
+\f0  det, d
+\f1 \uc0\u65533 
+\f0  de h
+\f1 \uc0\u65533 
+\f0 rde ett starkt\
+d
+\f1 \uc0\u65533 
+\f0 nande bakom sig. Det var vildg
+\f1 \uc0\u65533 
+\f0 ssen, som hade kommit upp ur sj
+\f1 \uc0\u65533 
+\f0 n,\
+alla p
+\f1 \uc0\u65533 
+\f0  en g
+\f1 \uc0\u65533 
+\f0 ng, och stodo och skakade av sig vattnet. D
+\f1 \uc0\u65533 
+\f0 rp
+\f1 \uc0\u65533 
+\f0  ordnande\
+de sig i en l
+\f1 \uc0\u65533 
+\f0 ng rad med f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen i spetsen och kommo fram till dem.\
+\
+N
+\f1 \uc0\u65533 
+\f0 r den vita g
+\f1 \uc0\u65533 
+\f0 skarlen nu betraktade vildg
+\f1 \uc0\u65533 
+\f0 ssen, k
+\f1 \uc0\u65533 
+\f0 nde han sig inte\
+r
+\f1 \uc0\u65533 
+\f0 tt v
+\f1 \uc0\u65533 
+\f0 l till mods. Han hade v
+\f1 \uc0\u65533 
+\f0 ntat, att de skulle vara mer lika\
+tamg
+\f1 \uc0\u65533 
+\f0 ss, och att han skulle k
+\f1 \uc0\u65533 
+\f0 nde mer sl
+\f1 \uc0\u65533 
+\f0 ktskap med dem. De voro\
+mycket mindre 
+\f1 \uc0\u65533 
+\f0 n han, och ingen av dem var vit, utan de voro alla gr
+\f1 \uc0\u65533 
+\f0 a\
+med vattring i brunt.  Och deras 
+\f1 \uc0\u65533 
+\f0 gon blev han n
+\f1 \uc0\u65533 
+\f0 stan r
+\f1 \uc0\u65533 
+\f0 dd f
+\f1 \uc0\u65533 
+\f0 r. De\
+voro gula och lyste, som om det hade brunnit en eld bakom\
+dem. G
+\f1 \uc0\u65533 
+\f0 skarlen hade alltid f
+\f1 \uc0\u65533 
+\f0 tt l
+\f1 \uc0\u65533 
+\f0 ra sig, att det var mest passande\
+att g
+\f1 \uc0\u65533 
+\f0  sakta och rultande, med dessa gingo inte, utan de\
+halvsprungo. Men mest 
+\f1 \uc0\u65533 
+\f0 ngslig blev han, n
+\f1 \uc0\u65533 
+\f0 r han s
+\f1 \uc0\u65533 
+\f0 g p
+\f1 \uc0\u65533 
+\f0  deras f
+\f1 \uc0\u65533 
+\f0 tter.\
+De voro stora med slitna s
+\f1 \uc0\u65533 
+\f0 ndertrasade sulor. Det m
+\f1 \uc0\u65533 
+\f0 rktes, att\
+vildg
+\f1 \uc0\u65533 
+\f0 ssen aldrig fr
+\f1 \uc0\u65533 
+\f0 gade efter vad de trampade p
+\f1 \uc0\u65533 
+\f0 . e togo inga\
+omv
+\f1 \uc0\u65533 
+\f0 gar. De voro mycket prydliga och v
+\f1 \uc0\u65533 
+\f0 l putsade annars, men p
+\f1 \uc0\u65533 
+\f0 \
+f
+\f1 \uc0\u65533 
+\f0 tterna s
+\f1 \uc0\u65533 
+\f0 g man, att de voro fattigt vildmarksfolk.\
+\
+G
+\f1 \uc0\u65533 
+\f0 skarlen hann inte mer 
+\f1 \uc0\u65533 
+\f0 n viska till pojken: "Svara nu raskt f
+\f1 \uc0\u65533 
+\f0 r dig,\
+men tala inte om vem du 
+\f1 \uc0\u65533 
+\f0 r!"  s
+\f1 \uc0\u65533 
+\f0  vore de framme.\
+\
+N
+\f1 \uc0\u65533 
+\f0 r vildg
+\f1 \uc0\u65533 
+\f0 ssen hade stannat framf
+\f1 \uc0\u65533 
+\f0 r dem, nego de med halsarna m
+\f1 \uc0\u65533 
+\f0 nga\
+g
+\f1 \uc0\u65533 
+\f0 nger, och g
+\f1 \uc0\u65533 
+\f0 skarlen gjorde s
+\f1 \uc0\u65533 
+\f0  med, 
+\f1 \uc0\u65533 
+\f0 nnu flera g
+\f1 \uc0\u65533 
+\f0 nger 
+\f1 \uc0\u65533 
+\f0 n de. S
+\f1 \uc0\u65533 
+\f0  snart\
+som det var nog h
+\f1 \uc0\u65533 
+\f0 lsat, sade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen: "Nu skulle vi v
+\f1 \uc0\u65533 
+\f0 l h
+\f1 \uc0\u65533 
+\f0 ra vad ni\
+
+\f1 \uc0\u65533 
+\f0 r f
+\f1 \uc0\u65533 
+\f0 r ena."\
+\
+"Det 
+\f1 \uc0\u65533 
+\f0 r inte mycket att s
+\f1 \uc0\u65533 
+\f0 ga om mig," sade g
+\f1 \uc0\u65533 
+\f0 skarlen. "Jag 
+\f1 \uc0\u65533 
+\f0 r f
+\f1 \uc0\u65533 
+\f0 dd i\
+Skan
+\f1 \uc0\u65533 
+\f0 r f
+\f1 \uc0\u65533 
+\f0 rra v
+\f1 \uc0\u65533 
+\f0 ren. I h
+\f1 \uc0\u65533 
+\f0 stas blev jag s
+\f1 \uc0\u65533 
+\f0 ld till Holger Nilsson i\
+V
+\f1 \uc0\u65533 
+\f0 stra Vemmenh
+\f1 \uc0\u65533 
+\f0 g, och d
+\f1 \uc0\u65533 
+\f0 r har jag varit alltsedan." - "Du tycks inte\
+ha n
+\f1 \uc0\u65533 
+\f0 gon 
+\f1 \uc0\u65533 
+\f0 tt att ber
+\f1 \uc0\u65533 
+\f0 mma dig av." sade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen. "Vad 
+\f1 \uc0\u65533 
+\f0 r det d
+\f1 \uc0\u65533 
+\f0 , som\
+g
+\f1 \uc0\u65533 
+\f0 r dig s
+\f1 \uc0\u65533 
+\f0  stormodig, att du vill vara i lag med vildg
+\f1 \uc0\u65533 
+\f0 ss?" - "Det kan\
+ju vara d
+\f1 \uc0\u65533 
+\f0 rf
+\f1 \uc0\u65533 
+\f0 r, att jag vill visa er vildg
+\f1 \uc0\u65533 
+\f0 ss, att ocks
+\f1 \uc0\u65533 
+\f0  vi tama duger\
+n
+\f1 \uc0\u65533 
+\f0 got till," sade g
+\f1 \uc0\u65533 
+\f0 skarlen. - "Ja, det vore gott om du kunde visa oss\
+det," sade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen. "Vi har nu redan sett hur pass kunnig du 
+\f1 \uc0\u65533 
+\f0 r i\
+att flyga, men du 
+\f1 \uc0\u65533 
+\f0 r kanske dugligare i annan idrott. Det kan ju\
+h
+\f1 \uc0\u65533 
+\f0 nda, att du 
+\f1 \uc0\u65533 
+\f0 r stark i att str
+\f1 \uc0\u65533 
+\f0 cksimma." - "Nej, det kan jag inte\
+ber
+\f1 \uc0\u65533 
+\f0 mma mig av," sade g
+\f1 \uc0\u65533 
+\f0 skarlen. Han tyckte sig m
+\f1 \uc0\u65533 
+\f0 rka, att f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen\
+redan hade best
+\f1 \uc0\u65533 
+\f0 mt sig f
+\f1 \uc0\u65533 
+\f0 r att s
+\f1 \uc0\u65533 
+\f0 nda hem honom, och han brydde sig\
+inte om hur han svarade. "Jag har aldrig summit l
+\f1 \uc0\u65533 
+\f0 ngre 
+\f1 \uc0\u65533 
+\f0 n tv
+\f1 \uc0\u65533 
+\f0 rs
+\f1 \uc0\u65533 
+\f0 ver en\
+m
+\f1 \uc0\u65533 
+\f0 rgelgrav," fortfor han. - "D
+\f1 \uc0\u65533 
+\f0  v
+\f1 \uc0\u65533 
+\f0 ntar jag mig, att du 
+\f1 \uc0\u65533 
+\f0 r en m
+\f1 \uc0\u65533 
+\f0 stare i\
+att springa," sade g
+\f1 \uc0\u65533 
+\f0 sen. - "Aldrig har jag sett en tamg
+\f1 \uc0\u65533 
+\f0 s springa,\
+och aldrig har jag sj
+\f1 \uc0\u65533 
+\f0 lv gjort det heller," sade g
+\f1 \uc0\u65533 
+\f0 skarlen och gjorde\
+saken v
+\f1 \uc0\u65533 
+\f0 rre, 
+\f1 \uc0\u65533 
+\f0 n den var.\
+\
+Den store vite var nu viss om att f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen skulle s
+\f1 \uc0\u65533 
+\f0 ga, att hon\
+ingalunda kunde ta honom med.  Han blev mycket f
+\f1 \uc0\u65533 
+\f0 rv
+\f1 \uc0\u65533 
+\f0 nad, n
+\f1 \uc0\u65533 
+\f0 r hon sade:\
+"Du svarar modigt p
+\f1 \uc0\u65533 
+\f0  fr
+\f1 \uc0\u65533 
+\f0 gor, och den, som har mod, kan bli en god\
+reskamrat, om han ocks
+\f1 \uc0\u65533 
+\f0  
+\f1 \uc0\u65533 
+\f0 r okunnig i b
+\f1 \uc0\u65533 
+\f0 rjan. Vad s
+\f1 \uc0\u65533 
+\f0 ger du om att\
+stanna hos oss ett par dar, tills vi f
+\f1 \uc0\u65533 
+\f0 r se vad du g
+\f1 \uc0\u65533 
+\f0 r f
+\f1 \uc0\u65533 
+\f0 r?" - "Det 
+\f1 \uc0\u65533 
+\f0 r\
+jag mycket bel
+\f1 \uc0\u65533 
+\f0 ten med," sade g
+\f1 \uc0\u65533 
+\f0 skarlen och var helt glad.\
+\
+D
+\f1 \uc0\u65533 
+\f0 rp
+\f1 \uc0\u65533 
+\f0  pekade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen med n
+\f1 \uc0\u65533 
+\f0 bben och sade: "Men vem 
+\f1 \uc0\u65533 
+\f0 r det som du\
+har med dig? En s
+\f1 \uc0\u65533 
+\f0 dan som han har jag aldrig f
+\f1 \uc0\u65533 
+\f0 rr sett." - "Det 
+\f1 \uc0\u65533 
+\f0 r min\
+kamrat," sade g
+\f1 \uc0\u65533 
+\f0 skarlen. "Han har varit g
+\f1 \uc0\u65533 
+\f0 svaktare i hela sitt\
+liv. Han blir nog nyttig att f
+\f1 \uc0\u65533 
+\f0  med p
+\f1 \uc0\u65533 
+\f0  resan." - "Ja, det kan v
+\f1 \uc0\u65533 
+\f0 l vara\
+bra f
+\f1 \uc0\u65533 
+\f0 r en tamg
+\f1 \uc0\u65533 
+\f0 s," svarade den vilda. "Vad kallar du honom?" - "Han\
+har flera namn," sade g
+\f1 \uc0\u65533 
+\f0 skarlen tvekande och visste inte vad han\
+skulle finna p
+\f1 \uc0\u65533 
+\f0  i en hast, f
+\f1 \uc0\u65533 
+\f0 r han ville inte f
+\f1 \uc0\u65533 
+\f0 rr
+\f1 \uc0\u65533 
+\f0 da, att pojken hade\
+ett m
+\f1 \uc0\u65533 
+\f0 nniskonamn. "Jo, han heter Tummetott," sade han till sist. - "
+\f1 \uc0\u65533 
+\f0 r\
+han av tomtesl
+\f1 \uc0\u65533 
+\f0 kt?" sade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen. - "Vid vad tid brukar ni vildg
+\f1 \uc0\u65533 
+\f0 ss\
+st
+\f1 \uc0\u65533 
+\f0 lla er och sova?" sade g
+\f1 \uc0\u65533 
+\f0 skarlen hastigt och f
+\f1 \uc0\u65533 
+\f0 rs
+\f1 \uc0\u65533 
+\f0 kte komma ifr
+\f1 \uc0\u65533 
+\f0 n\
+att svara p
+\f1 \uc0\u65533 
+\f0  den sista fr
+\f1 \uc0\u65533 
+\f0 gan. "Mina 
+\f1 \uc0\u65533 
+\f0 gon faller igen av sig sj
+\f1 \uc0\u65533 
+\f0 lva s
+\f1 \uc0\u65533 
+\f0 \
+h
+\f1 \uc0\u65533 
+\f0 r dags." Det var l
+\f1 \uc0\u65533 
+\f0 tt att se, att den g
+\f1 \uc0\u65533 
+\f0 sen, som talade med\
+g
+\f1 \uc0\u65533 
+\f0 skarlen, var mycket gammal. Hela fj
+\f1 \uc0\u65533 
+\f0 derdr
+\f1 \uc0\u65533 
+\f0 kten var isgr
+\f1 \uc0\u65533 
+\f0  utan m
+\f1 \uc0\u65533 
+\f0 rka\
+streck. Huvudet var st
+\f1 \uc0\u65533 
+\f0 rre, benen voro gr
+\f1 \uc0\u65533 
+\f0 vre och f
+\f1 \uc0\u65533 
+\f0 tterna mer slitna\
+
+\f1 \uc0\u65533 
+\f0 n n
+\f1 \uc0\u65533 
+\f0 gon annans. Fj
+\f1 \uc0\u65533 
+\f0 drarna voro styva, skuldrorna knotiga, och halsen\
+var tunn. Allt detta var 
+\f1 \uc0\u65533 
+\f0 lderns verk. Det var bara 
+\f1 \uc0\u65533 
+\f0 gonen, som tiden\
+inte f
+\f1 \uc0\u65533 
+\f0 tt makt med. De lyste klarare, liksom yngre 
+\f1 \uc0\u65533 
+\f0 n n
+\f1 \uc0\u65533 
+\f0 gon av de\
+andras.\
+\
+Hon v
+\f1 \uc0\u65533 
+\f0 nde sig nu mycket h
+\f1 \uc0\u65533 
+\f0 gdraget till g
+\f1 \uc0\u65533 
+\f0 skarlen. "Vet nu, g
+\f1 \uc0\u65533 
+\f0 skarl,\
+att jag 
+\f1 \uc0\u65533 
+\f0 r Akka fr
+\f1 \uc0\u65533 
+\f0 n Kebnekajse, och att den g
+\f1 \uc0\u65533 
+\f0 sen, som flyger n
+\f1 \uc0\u65533 
+\f0 rmast\
+mig till h
+\f1 \uc0\u65533 
+\f0 ger, 
+\f1 \uc0\u65533 
+\f0 r Yksi fr
+\f1 \uc0\u65533 
+\f0 n Vassijaure, och den till v
+\f1 \uc0\u65533 
+\f0 nster 
+\f1 \uc0\u65533 
+\f0 r Kaksi\
+fr
+\f1 \uc0\u65533 
+\f0 n Nuolja! Vet ocks
+\f1 \uc0\u65533 
+\f0 , att den andra h
+\f1 \uc0\u65533 
+\f0 gerg
+\f1 \uc0\u65533 
+\f0 sen 
+\f1 \uc0\u65533 
+\f0 r Kolme fr
+\f1 \uc0\u65533 
+\f0 n\
+Sarjektj
+\f1 \uc0\u65533 
+\f0 kko, och den andra v
+\f1 \uc0\u65533 
+\f0 nsterg
+\f1 \uc0\u65533 
+\f0 sen 
+\f1 \uc0\u65533 
+\f0 r Nelj
+\f1 \uc0\u65533 
+\f0  fr
+\f1 \uc0\u65533 
+\f0 n Svappavaara,\
+och att bakom dem flyger Viisi fr
+\f1 \uc0\u65533 
+\f0 n Oviksfj
+\f1 \uc0\u65533 
+\f0 llen och Kuusi fr
+\f1 \uc0\u65533 
+\f0 n\
+Sjangeli! Och vet, att dessa, liksom de sex g
+\f1 \uc0\u65533 
+\f0 sslingarna, som flyger\
+sist, tre till h
+\f1 \uc0\u65533 
+\f0 ger och tre till v
+\f1 \uc0\u65533 
+\f0 nster, alla 
+\f1 \uc0\u65533 
+\f0 r h
+\f1 \uc0\u65533 
+\f0 gfj
+\f1 \uc0\u65533 
+\f0 llsg
+\f1 \uc0\u65533 
+\f0 ss av\
+b
+\f1 \uc0\u65533 
+\f0 sta 
+\f1 \uc0\u65533 
+\f0 tt! Du ska inte ta oss f
+\f1 \uc0\u65533 
+\f0 r landstrykare, som sl
+\f1 \uc0\u65533 
+\f0 r s
+\f1 \uc0\u65533 
+\f0 llskap med\
+vem som helst, och du ska inte tro, att vi l
+\f1 \uc0\u65533 
+\f0 ter n
+\f1 \uc0\u65533 
+\f0 gon dela v
+\f1 \uc0\u65533 
+\f0 r\
+sovplats, som inte vill s
+\f1 \uc0\u65533 
+\f0 ga av vad f
+\f1 \uc0\u65533 
+\f0 r 
+\f1 \uc0\u65533 
+\f0 tt han 
+\f1 \uc0\u65533 
+\f0 r kommen."\
+\
+N
+\f1 \uc0\u65533 
+\f0 r Akka, f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen, talade p
+\f1 \uc0\u65533 
+\f0  detta s
+\f1 \uc0\u65533 
+\f0 tt, steg pojken hastigt\
+fram. De hade bedr
+\f1 \uc0\u65533 
+\f0 vat honom, att g
+\f1 \uc0\u65533 
+\f0 skarlen, som hade svarat s
+\f1 \uc0\u65533 
+\f0  raskt\
+f
+\f1 \uc0\u65533 
+\f0 r dig sj
+\f1 \uc0\u65533 
+\f0 lv, gav s
+\f1 \uc0\u65533 
+\f0  undvikande svar, n
+\f1 \uc0\u65533 
+\f0 r det g
+\f1 \uc0\u65533 
+\f0 llde honom. "Jag vill\
+inte h
+\f1 \uc0\u65533 
+\f0 lla hemligt vem jag 
+\f1 \uc0\u65533 
+\f0 r," sade han. "Jag heter Nils Holgersson\
+och 
+\f1 \uc0\u65533 
+\f0 r son till en husman, och 
+\f1 \uc0\u65533 
+\f0 nda till denna dag har jag varit en\
+m
+\f1 \uc0\u65533 
+\f0 nniska, men i f
+\f1 \uc0\u65533 
+\f0 rmiddags...\
+\
+L
+\f1 \uc0\u65533 
+\f0 ngre kom inte pojken. S
+\f1 \uc0\u65533 
+\f0  snart han sade, att han var en m
+\f1 \uc0\u65533 
+\f0 nniska,\
+ryggade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen tre steg bakl
+\f1 \uc0\u65533 
+\f0 nges och de 
+\f1 \uc0\u65533 
+\f0 vriga 
+\f1 \uc0\u65533 
+\f0 nnu mera. Och de\
+str
+\f1 \uc0\u65533 
+\f0 ckte alla fram halsarna och fr
+\f1 \uc0\u65533 
+\f0 ste vredgat emot honom.\
+\
+"Detta har jag misst
+\f1 \uc0\u65533 
+\f0 nkt, alltsedan jag f
+\f1 \uc0\u65533 
+\f0 rst s
+\f1 \uc0\u65533 
+\f0 g dig h
+\f1 \uc0\u65533 
+\f0 r p
+\f1 \uc0\u65533 
+\f0 \
+stranden," sade Akka. "Och nu m
+\f1 \uc0\u65533 
+\f0  du genast laga dig bort. Vi t
+\f1 \uc0\u65533 
+\f0 l inga\
+m
+\f1 \uc0\u65533 
+\f0 nniskor ibland oss."\
+\
+"Det 
+\f1 \uc0\u65533 
+\f0 r v
+\f1 \uc0\u65533 
+\f0 l inte m
+\f1 \uc0\u65533 
+\f0 jligt," sade g
+\f1 \uc0\u65533 
+\f0 skarlen medlande, "att ni vildg
+\f1 \uc0\u65533 
+\f0 ss\
+kan vara r
+\f1 \uc0\u65533 
+\f0 dda f
+\f1 \uc0\u65533 
+\f0 r en, som 
+\f1 \uc0\u65533 
+\f0 r s
+\f1 \uc0\u65533 
+\f0  liten. I morgon ska han visst ge sig\
+av hem, men 
+\f1 \uc0\u65533 
+\f0 ver natten m
+\f1 \uc0\u65533 
+\f0 tte ni v
+\f1 \uc0\u65533 
+\f0 l l
+\f1 \uc0\u65533 
+\f0 ta honom stanna h
+\f1 \uc0\u65533 
+\f0 r ibland\
+oss. Det kan ingen av oss st
+\f1 \uc0\u65533 
+\f0  till svars med att l
+\f1 \uc0\u65533 
+\f0 ta en s
+\f1 \uc0\u65533 
+\f0 dan\
+stackare reda sig p
+\f1 \uc0\u65533 
+\f0  egen hand med vessla och r
+\f1 \uc0\u65533 
+\f0 v nu i natten."\
+\
+Vildg
+\f1 \uc0\u65533 
+\f0 sen kom nu n
+\f1 \uc0\u65533 
+\f0 rmare, men det syntes v
+\f1 \uc0\u65533 
+\f0 l, att hon hade sv
+\f1 \uc0\u65533 
+\f0 rt f
+\f1 \uc0\u65533 
+\f0 r\
+att betvinga sin fruktan. "Jag 
+\f1 \uc0\u65533 
+\f0 r l
+\f1 \uc0\u65533 
+\f0 rd att vara r
+\f1 \uc0\u65533 
+\f0 dd f
+\f1 \uc0\u65533 
+\f0 r allt, vad\
+m
+\f1 \uc0\u65533 
+\f0 nniskor heter, de m
+\f1 \uc0\u65533 
+\f0  vara stora eller sm
+\f1 \uc0\u65533 
+\f0 ," sade hon. "Men om du,\
+g
+\f1 \uc0\u65533 
+\f0 skarl, vill svara f
+\f1 \uc0\u65533 
+\f0 r den h
+\f1 \uc0\u65533 
+\f0 r, att han inte g
+\f1 \uc0\u65533 
+\f0 r oss n
+\f1 \uc0\u65533 
+\f0 got ont, s
+\f1 \uc0\u65533 
+\f0 \
+f
+\f1 \uc0\u65533 
+\f0 r han v
+\f1 \uc0\u65533 
+\f0 l stanna hos oss i natt.  Men jag tror inte, att v
+\f1 \uc0\u65533 
+\f0 rt\
+nattkvarter 
+\f1 \uc0\u65533 
+\f0 r till lags varken f
+\f1 \uc0\u65533 
+\f0 r dig eller f
+\f1 \uc0\u65533 
+\f0 r honom, f
+\f1 \uc0\u65533 
+\f0 r vi 
+\f1 \uc0\u65533 
+\f0 mnar\
+st
+\f1 \uc0\u65533 
+\f0 lla oss att sova p
+\f1 \uc0\u65533 
+\f0  den landl
+\f1 \uc0\u65533 
+\f0 sa isen h
+\f1 \uc0\u65533 
+\f0 rute."\
+\
+Hon t
+\f1 \uc0\u65533 
+\f0 nkte nog, att g
+\f1 \uc0\u65533 
+\f0 skarlen skulle bli tveksam, n
+\f1 \uc0\u65533 
+\f0 r han fick h
+\f1 \uc0\u65533 
+\f0 ra\
+detta. Men han l
+\f1 \uc0\u65533 
+\f0 t sig ingenting bekomma. "Ni 
+\f1 \uc0\u65533 
+\f0 r bra klok, som f
+\f1 \uc0\u65533 
+\f0 rst
+\f1 \uc0\u65533 
+\f0 r\
+att v
+\f1 \uc0\u65533 
+\f0 lja en s
+\f1 \uc0\u65533 
+\f0  s
+\f1 \uc0\u65533 
+\f0 ker sovplats," sade han.\
+\
+"Men du ansvarar f
+\f1 \uc0\u65533 
+\f0 r att han i morgon ger sig av hem till sitt." -\
+"Det blir d
+\f1 \uc0\u65533 
+\f0  s
+\f1 \uc0\u65533 
+\f0 , att jag f
+\f1 \uc0\u65533 
+\f0 r l
+\f1 \uc0\u65533 
+\f0 mna er, jag med," sade g
+\f1 \uc0\u65533 
+\f0 skarlen. "Jag\
+har lovat att inte 
+\f1 \uc0\u65533 
+\f0 verge honom." - "Det st
+\f1 \uc0\u65533 
+\f0 r dig fritt att flyga vart\
+du vill," sade f
+\f1 \uc0\u65533 
+\f0 rarg
+\f1 \uc0\u65533 
+\f0 sen.\
+\
+H
+\f1 \uc0\u65533 
+\f0 rmed lyfte hon vingarna och fl
+\f1 \uc0\u65533 
+\f0 g ut 
+\f1 \uc0\u65533 
+\f0 ver isen, och den ena efter den\
+andra av vildg
+\f1 \uc0\u65533 
+\f0 ssen f
+\f1 \uc0\u65533 
+\f0 ljde henne.\
+\
+Pojken var bedr
+\f1 \uc0\u65533 
+\f0 vad 
+\f1 \uc0\u65533 
+\f0 ver att hans Lapplandsresa inte kunde bli av, och\
+till p
+\f1 \uc0\u65533 
+\f0  k
+\f1 \uc0\u65533 
+\f0 pet var han r
+\f1 \uc0\u65533 
+\f0 dd f
+\f1 \uc0\u65533 
+\f0 r det kalla nattkvarteret. "Det blir allt\
+v
+\f1 \uc0\u65533 
+\f0 rre och v
+\f1 \uc0\u65533 
+\f0 rre, g
+\f1 \uc0\u65533 
+\f0 skarl," sade han. "F
+\f1 \uc0\u65533 
+\f0 r det f
+\f1 \uc0\u65533 
+\f0 rsta kommer vi att\
+frysa ihj
+\f1 \uc0\u65533 
+\f0 l ute p
+\f1 \uc0\u65533 
+\f0  isen.\
+\
+Men g
+\f1 \uc0\u65533 
+\f0 skarlen var vid gott mod, "Det har ingen fara," sade han. "Jag\
+ber dig nu bara, att du i alla hast samlar ihop s
+\f1 \uc0\u65533 
+\f0  mycket boss och\
+gr
+\f1 \uc0\u65533 
+\f0 s du kan b
+\f1 \uc0\u65533 
+\f0 ra."\
+\
+N
+\f1 \uc0\u65533 
+\f0 r pojken hade famnen full av torrt gr
+\f1 \uc0\u65533 
+\f0 s, knep g
+\f1 \uc0\u65533 
+\f0 skarlen tag i hans\
+skjortlinning, lyfte honom och for ut p
+\f1 \uc0\u65533 
+\f0  isen, d
+\f1 \uc0\u65533 
+\f0 r vildg
+\f1 \uc0\u65533 
+\f0 ssen redan\
+stodo och sovo med n
+\f1 \uc0\u65533 
+\f0 bben under vingen.\
+\
+"Bred nu ut gr
+\f1 \uc0\u65533 
+\f0 set p
+\f1 \uc0\u65533 
+\f0  isen, s
+\f1 \uc0\u65533 
+\f0  att jag f
+\f1 \uc0\u65533 
+\f0 r n
+\f1 \uc0\u65533 
+\f0 got att st
+\f1 \uc0\u65533 
+\f0  p
+\f1 \uc0\u65533 
+\f0  och inte\
+fryser fast! Hj
+\f1 \uc0\u65533 
+\f0 lp du mig, s
+\f1 \uc0\u65533 
+\f0  ska jag hj
+\f1 \uc0\u65533 
+\f0 lpa dig! sade g
+\f1 \uc0\u65533 
+\f0 skarlen.\
+\
+Pojken gjorde s
+\f1 \uc0\u65533 
+\f0 , och n
+\f1 \uc0\u65533 
+\f0 r han var f
+\f1 \uc0\u65533 
+\f0 rdig, grep g
+\f1 \uc0\u65533 
+\f0 skarlen honom 
+\f1 \uc0\u65533 
+\f0 n en\
+g
+\f1 \uc0\u65533 
+\f0 ng vid skjortlinningen och stack in honom under sin vinge. "D
+\f1 \uc0\u65533 
+\f0 r\
+t
+\f1 \uc0\u65533 
+\f0 nker jag att du ska ligga varmt och bra," sade han och tryckte till\
+med vingen.\
+\
+Pojken var s
+\f1 \uc0\u65533 
+\f0  inb
+\f1 \uc0\u65533 
+\f0 ddad i dun, att han inte kunde svara, men varmt och\
+sk
+\f1 \uc0\u65533 
+\f0 nt l
+\f1 \uc0\u65533 
+\f0 g han, och tr
+\f1 \uc0\u65533 
+\f0 tt var han, och sov gjorde han inom ett\
+
+\f1 \uc0\u65533 
+\f0 gonblick.\
+}

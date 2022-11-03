@@ -1,0 +1,7 @@
+Dator         Dell       10000
+DVD-brännare   Skräpmärke    10
+DVD-brännare   Dyrtmärke   5000
+Mus           Microsoft    500
+Mus           Logitech     300
+Laserskrivare HP          5000
+Laserskrivare Samsung     4000

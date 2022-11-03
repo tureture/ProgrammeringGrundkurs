@@ -1,0 +1,754 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2513
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 Menlo-Regular;\f2\fnil\fcharset0 Menlo-Bold;
+}
+{\colortbl;\red255\green255\blue255;\red100\green56\blue32;\red255\green255\blue255;\red196\green26\blue22;
+\red0\green0\blue0;\red155\green35\blue147;\red11\green79\blue121;\red93\green108\blue121;\red15\green104\blue160;
+\red57\green0\blue160;\red50\green109\blue116;\red28\green0\blue207;\red28\green70\blue74;\red108\green54\blue169;
+}
+{\*\expandedcolortbl;;\csgenericrgb\c39147\c22031\c12446;\csgenericrgb\c100000\c100000\c100000;\csgenericrgb\c77000\c10200\c8600;
+\csgenericrgb\c0\c0\c0\c85000;\csgenericrgb\c60759\c13753\c57628;\csgenericrgb\c4314\c30980\c47451;\csgenericrgb\c36526\c42188\c47515;\csgenericrgb\c5882\c40784\c62745;
+\csgenericrgb\c22454\c0\c62803;\csgenericrgb\c19418\c42935\c45455;\csgenericrgb\c11000\c0\c81000;\csgenericrgb\c10981\c27276\c28869;\csgenericrgb\c42190\c21278\c66379;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww15540\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 /*\
+Ture Hassler Tenta Augusti 2020\
+Programmering Grundkurs\
+\
+1. \
+*/\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f1 \cf2 \cb3 #include \cf4 <string>\cf5 \
+\cf2 #include \cf4 <cctype>\cf5 \
+\cf2 #include \cf4 <iostream>\cf5 \
+\cf2 #include \cf4 <fstream>\cf5 \
+\cf2 #include \cf4 <cmath>\cf5 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f2\b \cf6 using
+\f1\b0 \cf5  
+\f2\b \cf6 namespace
+\f1\b0 \cf5  \cf7 std\cf5 ;\
+\
+
+\f2\b \cf6 class
+\f1\b0 \cf5  \cf7 Saft\cf5  \{\
+
+\f2\b \cf6 private
+\f1\b0 \cf5 :\
+    \cf8 // Variabler\cf5 \
+    \cf9 string\cf5  \cf9 namn\cf5 ;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 year\cf5 ;\
+    
+\f2\b \cf6 bool
+\f1\b0 \cf5  \cf9 vitSaft\cf5 ; \cf8 // True f\'f6r vit saft, false f\'f6r r\'f6d saft\cf5 \
+    \cf9 string\cf5  \cf9 berries\cf5 ;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 antal\cf5 ;\
+    \
+
+\f2\b \cf6 public
+\f1\b0 \cf5 :\
+    \cf9 Saft\cf5 ();\
+    \cf9 Saft\cf5 (\cf10 string\cf5  name, 
+\f2\b \cf6 int
+\f1\b0 \cf5  year, 
+\f2\b \cf6 bool
+\f1\b0 \cf5  vitSaft, \cf10 string\cf5  berries, 
+\f2\b \cf6 int
+\f1\b0 \cf5  antal);\
+    \cf10 string\cf5  \cf9 getName\cf5 ();\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 getYear\cf5 ();\
+    
+\f2\b \cf6 bool
+\f1\b0 \cf5  \cf9 isWhite\cf5 ();\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 getAntal\cf5 ();\
+    
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 skrivUt\cf5 ();\
+    
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 laggTill\cf5 (
+\f2\b \cf6 int
+\f1\b0 \cf5  antalF);\
+    
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 taBort\cf5 (
+\f2\b \cf6 int
+\f1\b0 \cf5  antalF);\
+    \
+\};\
+\
+\cf9 Saft\cf5 ::\cf9 Saft\cf5 () \{\
+    \cf11 namn\cf5  = \cf4 ""\cf5 ;\
+    \cf11 year\cf5  = \cf12 0\cf5 ;\
+    \cf11 vitSaft\cf5  = 
+\f2\b \cf6 false
+\f1\b0 \cf5 ;\
+    \cf11 berries\cf5  = \cf4 ""\cf5 ;\
+    \cf11 antal\cf5  = \cf12 0\cf5 ;\
+\}\
+\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf13 Saft\cf5 ::\cf9 Saft\cf5 (\cf10 string\cf5  name, 
+\f2\b \cf6 int
+\f1\b0 \cf5  year, 
+\f2\b \cf6 bool
+\f1\b0 \cf5  vitSaft, \cf10 string\cf5  berries, 
+\f2\b \cf6 int
+\f1\b0 \cf5  antal):\
+\cf11 namn\cf5 (name),\cf11 year\cf5 (year),\cf11 vitSaft\cf5 (vitSaft),\cf11 berries\cf5 (berries),\cf11 antal\cf5 (antal)\
+\{\}\
+\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf10 string\cf5  \cf13 Saft\cf5 ::\cf9 getName\cf5 ()\{\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf11 namn\cf5 ;\
+\}\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf13 Saft\cf5 ::\cf9 getYear\cf5 ()\{\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf11 year\cf5 ;\
+\}\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf13 Saft\cf5 ::\cf9 getAntal\cf5 ()\{\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf11 antal\cf5 ;\
+\}\
+\
+
+\f2\b \cf6 bool
+\f1\b0 \cf5  \cf13 Saft\cf5 ::\cf9 isWhite\cf5 ()\{\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf11 vitSaft\cf5 ;\
+\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 Saft\cf5 ::\cf9 laggTill\cf5 (
+\f2\b \cf6 int
+\f1\b0 \cf5  antalF)\{\
+    \cf11 antal\cf5  += antalF;\
+\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 Saft\cf5 ::\cf9 taBort\cf5 (
+\f2\b \cf6 int
+\f1\b0 \cf5  antalF)\{\
+    
+\f2\b \cf6 if
+\f1\b0 \cf5  ((\cf11 antal\cf5 -antalF) > \cf12 0\cf5 ) \{\
+        \cf11 antal\cf5  -= antalF;\
+    \} 
+\f2\b \cf6 else
+\f1\b0 \cf5  \{\
+        \cf11 antal\cf5  = \cf12 0\cf5 ;\
+    \}\
+\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf13 Saft\cf5 ::\cf9 skrivUt\cf5 ()\{\
+    \cf14 cout\cf5  << \cf4 "Saften heter: "\cf5  << \cf11 namn\cf5  << \cf4 "\\n"\cf5 ;\
+    \cf14 cout\cf5  << \cf4 "Fr\'e5n \'e5r: "\cf5  << \cf11 year\cf5  << \cf4 "\\n"\cf5 ;\
+    
+\f2\b \cf6 if
+\f1\b0 \cf5  (\cf11 vitSaft\cf5 ) \{\
+        \cf14 cout\cf5  << \cf4 "\'c4r av typen Vit saft \\n"\cf5 ;\
+    \} 
+\f2\b \cf6 else
+\f1\b0 \cf5  \{\
+        cout << \cf4 "\'c4r av typen R\'f6d saft \\n"\cf5 ;\
+    \}\
+    cout << \cf4 "Gjord p\'e5: "\cf5  << berries << \cf4 "\\n"\cf5 ;\
+    cout << \cf4 "Antal flaskor: "\cf5  << antal << \cf4 "\\n"\cf5 ;\
+\}\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \cb1 \
+/*\
+
+\f1 Uppgift 2.\
+H\'e4r \'e4r l\'f6sningen till uppgift 2. Det som var lite speciellt med min l\'f6sning \'e4r att jag anv\'e4nder \
+mig av boolean variabeln prevCharIsAlpha f\'f6r att f\'f6rhindra att den r\'e4knar specialtecknen som \
+nya ord eller att dubbla blanksteg blir ytterligare ord. Den kollar allts\'e5 om f\'f6rra bokstaven\
+Var en giltig bokstav, och listar d\'e4rmed ut n\'e4r ett nytt ord b\'f6rjar.
+\f0 \
+*/\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f1 \cf2 \cb3 #include \cf4 <string>\cf5 \
+\cf2 #include \cf4 <cctype>\cf5 \
+\cf2 #include \cf4 <iostream>\cf5 \
+\cf2 #include \cf4 <fstream>\cf5 \
+\cf2 #include \cf4 <cmath>\cf5 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f2\b \cf6 using
+\f1\b0 \cf5  
+\f2\b \cf6 namespace
+\f1\b0 \cf5  \cf7 std\cf5 ;\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 main\cf5 ()\
+\{\
+    \cf10 string\cf5  filnamn = \cf4 "test.txt"\cf5 ; \cf8 // Filnamnet p\'e5 filen som ska l\'e4sas in.\cf5 \
+    
+\f2\b \cf6 char
+\f1\b0 \cf5  temp;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  antalMening = \cf12 0\cf5 ;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  antalOrd = \cf12 0\cf5 ;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  antalBoks = \cf12 0\cf5 ;\
+    
+\f2\b \cf6 bool
+\f1\b0 \cf5  prevCharIsAlpha = 
+\f2\b \cf6 false
+\f1\b0 \cf5 ;\
+    
+\f2\b \cf6 double
+\f1\b0 \cf5  ordPerMening;\
+    
+\f2\b \cf6 double
+\f1\b0 \cf5  bokstPerOrd;\
+    \
+    \
+    \cf10 ifstream\cf5  fin(filnamn.\cf14 c_str\cf5 ());\
+    
+\f2\b \cf6 while
+\f1\b0 \cf5  (fin.\cf14 get\cf5 (temp)) \{\
+        
+\f2\b \cf6 if
+\f1\b0 \cf5  (\cf14 isalpha\cf5 (temp)) \{ \cf8 // Kollar om det \'e4r en giltig bokstav\cf5 \
+            antalBoks++;\
+            prevCharIsAlpha = 
+\f2\b \cf6 true
+\f1\b0 \cf5 ;\
+        \} 
+\f2\b \cf6 else
+\f1\b0 \cf5  
+\f2\b \cf6 if
+\f1\b0 \cf5  (temp == \cf12 '.'\cf5 )\{ \cf8 // Kollar om det \'e4r en punk, allts\'e5 ny mening\cf5 \
+            antalMening++;\
+            antalOrd++;\
+            prevCharIsAlpha = 
+\f2\b \cf6 false
+\f1\b0 \cf5 ;\
+        \} 
+\f2\b \cf6 else
+\f1\b0 \cf5  
+\f2\b \cf6 if
+\f1\b0 \cf5 (prevCharIsAlpha)\{ \cf8 // Kollar om f\'f6rra bokstaven var giltig s\'e5 att den vet\cf5 \
+            \cf8 // n\'e4r ett ord tar slut. F\'f6rhindrar t.ex att r\'e4kna 999 som 3 ord...\cf5 \
+            antalOrd++;\
+            prevCharIsAlpha = 
+\f2\b \cf6 false
+\f1\b0 \cf5 ;\
+        \}\
+    \}\
+    \
+    \cf14 cout\cf5  << \cf4 "Antalet meningar: "\cf5  << antalMening << \cf4 "\\n"\cf5 ;\
+    \cf14 cout\cf5  << \cf4 "Antal ord: "\cf5  << antalOrd << \cf4 "\\n"\cf5 ;\
+    \cf14 cout\cf5  << \cf4 "Antal giltiga bokst\'e4ver: "\cf5  << antalBoks << \cf4 "\\n"\cf5 ;\
+   \
+    ordPerMening = 
+\f2\b \cf6 double
+\f1\b0 \cf5 (antalOrd) / 
+\f2\b \cf6 double
+\f1\b0 \cf5 (antalMening);\
+    bokstPerOrd = 
+\f2\b \cf6 double
+\f1\b0 \cf5 (antalBoks) / 
+\f2\b \cf6 double
+\f1\b0 \cf5 (antalOrd);\
+    \
+    \cf14 cout\cf5  << \cf4 "Antalet ord per mening: "\cf5  << ordPerMening << \cf4 "\\n"\cf5 ;\
+    \cf14 cout\cf5  << \cf4 "Antalet bokst\'e4ver per ord: "\cf5  << bokstPerOrd << \cf4 "\\n"\cf5 ;\
+  
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf12 0\cf5 ;\
+\}\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \cb1 /*
+\f1 \cf5 \cb3 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf5 3. Uppgift 3 \
+Programmet hittar de billigaste produkterna bland de som finns i lager-filen.\
+Den fungerar genom att l\'e4sa in filen tills eof, och f\'f6r varje produkt vi l\'e4ser in\
+S\'e5 kollar den om typen matchar n\'e5gon p\'e5 ink\'f6pslistan. Om ja s\'e5 kollar den ifall produkten \
+\'c4r billigare eller om vi inte sparat n\'e5got pris \'e4n, is\'e5fall sparas produkten och dess\
+Pris i en array.\
+Avslutar med att r\'e4kna totala kostanden och skriva ut.\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \cb1 */
+\f1 \cf5 \cb3 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf2 #include \cf4 <string>\cf5 \
+\cf2 #include \cf4 <cctype>\cf5 \
+\cf2 #include \cf4 <iostream>\cf5 \
+\cf2 #include \cf4 <fstream>\cf5 \
+\cf2 #include \cf4 <cmath>\cf5 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f2\b \cf6 using
+\f1\b0 \cf5  
+\f2\b \cf6 namespace
+\f1\b0 \cf5  \cf10 std\cf5 ;\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 lagstaPris\cf5 ( \cf10 string\cf5  filnamn, \cf10 string\cf5  inkopslista[], 
+\f2\b \cf6 int
+\f1\b0 \cf5  antal );\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 main\cf5 ()\
+\{\
+    \cf10 string\cf5  filnamn = \cf4 "test.txt"\cf5 ; \cf8 // Filnamnet p\'e5 filen som ska l\'e4sas in.\cf5 \
+    \cf10 string\cf5  grejerattkopa[] = \{ \cf4 "DVD-br\'e4nnare"\cf5 , \cf4 "Mus"\cf5 , \cf4 "Laserskrivare"\cf5  \};\
+    \cf14 cout\cf5  << \cf11 lagstaPris\cf5 (filnamn, grejerattkopa, \cf12 3\cf5 ) << \cf4 "kr totalt \\n"\cf5 ;\
+\
+\}\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 lagstaPris\cf5 ( \cf10 string\cf5  filnamn, string inkopslista[], 
+\f2\b \cf6 int
+\f1\b0 \cf5  antal )\{\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  billigastePris[antal]; \cf8 // H\'e5ller koll p\'e5 billigaste priset f\'f6r respektive produkts index\cf5 \
+    
+\f2\b \cf6 bool
+\f1\b0 \cf5  produktHittad[antal]; \cf8 // Ser till s\'e5 vi alltid fyller billigaste priset med f\'f6rsta produkten\cf5 \
+    \cf10 string\cf5  billigasteMarke[antal]; \cf8 // M\'e4rket p\'e5 den billigaste\cf5 \
+    \cf10 string\cf5  tempProd;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  tempPris;\
+    \cf10 string\cf5  tempNamn;\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  sum = \cf12 0\cf5 ;\
+    \
+    
+\f2\b \cf6 for
+\f1\b0 \cf5  (
+\f2\b \cf6 int
+\f1\b0 \cf5  i=\cf12 0\cf5 ; i<antal; i++) \{\
+        produktHittad[i] = 
+\f2\b \cf6 false
+\f1\b0 \cf5 ;\
+    \}\
+    \
+    \cf8 // Skapar ifstream instans f\'f6r att l\'e4sa in data fr\'e5n en fil\cf5 \
+    \cf10 ifstream\cf5  fin(filnamn.\cf14 c_str\cf5 ());\
+    \
+    \cf8 // L\'e4ser in tills eof \'e4r n\'e5dd\cf5 \
+    
+\f2\b \cf6 while
+\f1\b0 \cf5  (!fin.\cf14 eof\cf5 ()) \{\
+        \
+        fin >> tempProd;\
+        fin >> tempNamn;\
+        fin >> tempPris;\
+        \
+        \cf8 // For loop som kollar igenom objekten p\'e5 ink\'f6pslistan f\'f6r att hitta billigare\cf5 \
+        
+\f2\b \cf6 for
+\f1\b0 \cf5  (
+\f2\b \cf6 int
+\f1\b0 \cf5  i=\cf12 0\cf5 ; i<antal; i++) \{\
+            
+\f2\b \cf6 if
+\f1\b0 \cf5  (inkopslista[i] == tempProd) \{ \cf8 // Kollar om produkten \'e4r av samma typ\cf5 \
+                \cf8 // Kollar om priset \'e4r billigare, eller om det \'e4r f\'f6rsta varvet.\cf5 \
+                
+\f2\b \cf6 if
+\f1\b0 \cf5  (tempPris < billigastePris[i] || produktHittad[i] == 
+\f2\b \cf6 false
+\f1\b0 \cf5 )\{\
+                    billigasteMarke[i] = tempNamn; \cf8 // Sparar billigaste m\'e4rket\cf5 \
+                    billigastePris[i] = tempPris; \cf8 // Sparar billigaste priset\cf5 \
+                    produktHittad[i] = 
+\f2\b \cf6 true
+\f1\b0 \cf5 ; \cf8 // Ser till s\'e5 att vi inte har en tom array\cf5 \
+                \}\
+            \}\
+        \}\
+    \}\
+    \cf8 // R\'e4knar ihop totala summan och skriver ut\cf5 \
+    
+\f2\b \cf6 for
+\f1\b0 \cf5  (
+\f2\b \cf6 int
+\f1\b0 \cf5  j=\cf12 0\cf5 ; j<antal; j++) \{\
+        sum += billigastePris[j];\
+        \cf14 cout\cf5  << inkopslista[j] << \cf4 " "\cf5  << billigasteMarke[j] << \cf4 " "\cf5  << billigastePris[j] << \cf4 "\\n"\cf5 ;\
+    \}\
+    \
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  sum;\
+\}\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \cb1 /*
+\f1 \cf5 \cb3 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf5 4. Uppgift 4\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0 \cf0 \cb1 */
+\f1 \cf5 \cb3 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf2 #include \cf4 <string>\cf5 \
+\cf2 #include \cf4 <cctype>\cf5 \
+\cf2 #include \cf4 <iostream>\cf5 \
+\cf2 #include \cf4 <fstream>\cf5 \
+\cf2 #include \cf4 <cmath>\cf5 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f2\b \cf6 using
+\f1\b0 \cf5  
+\f2\b \cf6 namespace
+\f1\b0 \cf5  \cf10 std\cf5 ;\
+\
+\
+
+\f2\b \cf6 class
+\f1\b0 \cf5  \cf7 Barn\cf5 \
+\{\
+
+\f2\b \cf6 private
+\f1\b0 \cf5 :\
+  
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 regnr\cf5 ;             \cf8 // barnets registreringsnummer\cf5 \
+  \cf10 string\cf5  \cf9 namn\cf5 ;          \cf8 // barnets namn.\cf5 \
+\
+
+\f2\b \cf6 public
+\f1\b0 \cf5 :\
+  \cf9 Barn\cf5 ();\
+  \cf9 Barn\cf5 (
+\f2\b \cf6 int
+\f1\b0 \cf5  p, \cf10 string\cf5  n);\
+  \cf13 Barn\cf5 & 
+\f2\b \cf6 operator
+\f1\b0 \cf5 = (
+\f2\b \cf6 const
+\f1\b0 \cf5  \cf13 Barn\cf5  &b); \cf8 // Tilldelningsoperator\cf5 \
+  
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 hamtaRegnr\cf5 ();                  \cf8 // returnerar regnr\cf5 \
+  \cf10 string\cf5  \cf9 hamtaNamn\cf5 ();                \cf8 // skicka ut namn\cf5 \
+  
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 skriv\cf5 ();                      \cf8 // skriver ut barndata\cf5 \
+  
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 las\cf5 ();                        \cf8 // laser in data om nytt barn\cf5 \
+  
+\f2\b \cf6 bool
+\f1\b0 \cf5  \cf9 sammanr\cf5 ( \cf13 Barn\cf5  annat );        \cf8 // true om aktuellt barn har\cf5 \
+                                     \cf8 // samma regnr som "annat".\cf5 \
+\
+\};\
+\
+
+\f2\b \cf6 class
+\f1\b0 \cf5  \cf7 Skolklass\cf5 \
+\{\
+
+\f2\b \cf6 private
+\f1\b0 \cf5 :\
+  \cf10 string\cf5  \cf9 larare\cf5 ;       \cf8 // L\'e4rarens namn\cf5 \
+  \cf13 Barn\cf5  *\cf9 barnen\cf5 ;        \cf8 // Barnen i klassen\cf5 \
+  
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 antal\cf5 ;           \cf8 // antalet barn i klassen\cf5 \
+  
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 maxantal\cf5 ;        \cf8 // max antal barn som f\'e5r finnas i klassen\cf5 \
+\
+
+\f2\b \cf6 public
+\f1\b0 \cf5 :\
+  \cf9 Skolklass\cf5 ();\
+  ~\cf9 Skolklass\cf5 ();\
+\
+  
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 skolstart\cf5 ();    \cf8 // l\'e4s in data, initiera, dvs starta klassen\cf5 \
+  
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 nyttbarnforst\cf5 (\cf13 Barn\cf5  bny); \cf8 // nytt barn till skolklassen, l\'e4gg f\'f6rst\cf5 \
+  
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 tabortbarn\cf5 (
+\f2\b \cf6 int
+\f1\b0 \cf5  pnr );  \cf8 // barn med regnr=pnr slutar i klassen\cf5 \
+  
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 skriv\cf5 ();               \cf8 // skriver ut alla data om skolklassen\cf5 \
+  
+\f2\b \cf6 bool
+\f1\b0 \cf5  \cf9 finns\cf5 ( 
+\f2\b \cf6 int
+\f1\b0 \cf5  nr, 
+\f2\b \cf6 int
+\f1\b0 \cf5  & i ); \cf8 // true om barnet "b" finns i klassen\cf5 \
+                                 \cf8 //   "i" \'e4r d\'e5 index f\'f6r pos\cf5 \
+\};\
+\
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf9 main\cf5 ( 
+\f2\b \cf6 void
+\f1\b0 \cf5  )\
+\{\
+  \cf13 Skolklass\cf5  Valsatra4A;    \cf8 // Skapa en skolklass.\cf5 \
+  Valsatra4A.\cf11 skolstart\cf5 ();  \cf8 // initiera klassen med data.\cf5 \
+  Valsatra4A.\cf11 skriv\cf5 ();      \cf8 // Skriv ut\cf5 \
+\
+  
+\f2\b \cf6 int
+\f1\b0 \cf5  testTabort;\
+  \cf14 cout\cf5  << \cf4 "Vilken skall bort? ge regnr:"\cf5   << \cf14 endl\cf5 ;\
+  \cf14 cin\cf5  >> testTabort;\
+  Valsatra4A.\cf11 tabortbarn\cf5 ( testTabort );\
+  Valsatra4A.\cf11 skriv\cf5 ();          \cf8 // Skriv ut\cf5 \
+\
+  
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf12 0\cf5 ;\
+\}\
+\
+\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf13 Barn\cf5 ::\cf9 Barn\cf5 ()\{\
+    \cf11 namn\cf5  = \cf4 ""\cf5 ;\
+    \cf11 regnr\cf5  = \cf12 0\cf5 ;\
+\}\
+\
+\cf13 Barn\cf5 ::\cf9 Barn\cf5 (
+\f2\b \cf6 int
+\f1\b0 \cf5  p, \cf10 string\cf5  n)\{\
+    \cf11 namn\cf5  = n;\
+    \cf11 regnr\cf5  = p;\
+\}\
+\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf8 // Tilldelningsoperator\cf5 \
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf13 Barn\cf5 & \cf13 Barn\cf5 :: 
+\f2\b \cf6 operator
+\f1\b0 \cf5 = ( 
+\f2\b \cf6 const
+\f1\b0 \cf5  \cf13 Barn\cf5  &b )\{\
+   
+\f2\b \cf6 if
+\f1\b0 \cf5  (
+\f2\b \cf6 this
+\f1\b0 \cf5  != &b)\{\
+       \cf11 namn\cf5  = b.\cf11 namn\cf5 ;\
+       \cf11 regnr\cf5  = b.\cf11 regnr\cf5 ;\
+   \}\
+   
+\f2\b \cf6 return
+\f1\b0 \cf5  *
+\f2\b \cf6 this
+\f1\b0 \cf5 ;\
+\}\
+\
+\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f2\b \cf6 int
+\f1\b0 \cf5  \cf13 Barn\cf5 ::\cf9 hamtaRegnr\cf5 ()\{\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf11 regnr\cf5 ;\
+\}\
+\
+\cf10 string\cf5  \cf13 Barn\cf5 ::\cf9 hamtaNamn\cf5 ()\{\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  \cf11 namn\cf5 ;\
+\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf13 Barn\cf5 ::\cf9 skriv\cf5 ()\{\
+    \cf14 cout\cf5  << \cf4 "Barnet "\cf5  << \cf11 namn\cf5  << \cf4 " med reg.nummer: "\cf5  << \cf11 regnr\cf5  << \cf4 "\\n"\cf5 ;\
+\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf13 Barn\cf5 ::\cf9 las\cf5 ()\{\
+    \cf14 cout\cf5  << \cf4 "\\n Skriv in namn: "\cf5 ;\
+    \cf14 cin\cf5  >> \cf11 namn\cf5 ;\
+    \cf14 cout\cf5  << \cf4 "\\n Skriv in reg.nr: "\cf5 ;\
+    \cf14 cin\cf5  >> \cf11 regnr\cf5 ;\
+    \cf14 cout\cf5  << \cf4 "\\n"\cf5 ;\
+\}\
+\
+
+\f2\b \cf6 bool
+\f1\b0 \cf5  \cf13 Barn\cf5 ::\cf9 sammanr\cf5 (\cf13 Barn\cf5  annat)\{\
+    
+\f2\b \cf6 if
+\f1\b0 \cf5  (\cf11 regnr\cf5  == annat.\cf11 regnr\cf5 )\{\
+        
+\f2\b \cf6 return
+\f1\b0 \cf5  
+\f2\b \cf6 true
+\f1\b0 \cf5 ;\
+    \}\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  
+\f2\b \cf6 false
+\f1\b0 \cf5 ;\
+\}\
+\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+\cf13 Skolklass\cf5 ::\cf9 Skolklass\cf5 ()\{\
+    \cf11 larare\cf5  = \cf4 ""\cf5 ;\
+    \cf11 barnen\cf5  = \cf12 0\cf5 ; \cf8 // Null pointer\cf5 \
+    \cf11 antal\cf5  = \cf12 0\cf5 ;\
+    \cf11 maxantal\cf5  = \cf12 0\cf5 ;\
+\}\
+\
+\cf13 Skolklass\cf5 ::~\cf9 Skolklass\cf5 ()\{\
+    
+\f2\b \cf6 delete
+\f1\b0 \cf5  [] \cf11 barnen\cf5 ;\
+\}\
+\
+\pard\tx593\pardeftab593\pardirnatural\partightenfactor0
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf13 Skolklass\cf5 ::\cf9 skolstart\cf5 ()\{\
+    \cf14 cout\cf5  << \cf4 "Ge l\'e4rarens namn: "\cf5 ;\
+    \cf14 cin\cf5  >> \cf11 larare\cf5 ;\
+    \
+    \cf14 cout\cf5  << \cf4 "\\n Ge max antal elever i denna klass: "\cf5 ;\
+    \cf14 cin\cf5  >> \cf11 maxantal\cf5 ;\
+    \
+    \cf14 cout\cf5  << \cf4 "\\n Ge antal barn idag: "\cf5 ;\
+    \cf14 cin\cf5  >> \cf11 antal\cf5 ;\
+    \
+    \cf13 Barn\cf5  tempB;\
+    \
+    
+\f2\b \cf6 for
+\f1\b0 \cf5  (
+\f2\b \cf6 int
+\f1\b0 \cf5  i=\cf12 0\cf5 ; i<\cf11 antal\cf5 ; i++) \{\
+        tempB.\cf11 las\cf5 ();\
+        \cf11 nyttbarnforst\cf5 (tempB);\
+    \}\
+\}\
+\
+
+\f2\b \cf6 void
+\f1\b0 \cf5  \cf9 Skolklass\cf5 ::\cf9 nyttbarnforst\cf5 (\cf13 Barn\cf5  bny)\{\
+    
+\f2\b \cf6 int
+\f1\b0 \cf5  index = \cf12 0\cf5 ;\
+    \cf13 Barn\cf5  *temp = \cf12 0\cf5 ;\
+    \
+    
+\f2\b \cf6 for
+\f1\b0 \cf5  (
+\f2\b \cf6 int
+\f1\b0 \cf5  i=\cf12 0\cf5 ; i<\cf11 antal\cf5 ; i++) \{\
+        
+\f2\b \cf6 if
+\f1\b0 \cf5  (!\cf11 finns\cf5 (i, index) && (\cf11 antal\cf5 <\cf11 maxantal\cf5 )) \{\
+            temp = 
+\f2\b \cf6 new
+\f1\b0 \cf5  \cf13 Barn\cf5 [\cf11 antal\cf5  +\cf12 1\cf5 ];\
+            temp[\cf12 0\cf5 ] = bny;\
+            
+\f2\b \cf6 for
+\f1\b0 \cf5  (
+\f2\b \cf6 int
+\f1\b0 \cf5  i=\cf12 0\cf5 ; i<\cf11 antal\cf5 ; i++) \{\
+                temp[i+\cf12 1\cf5 ] = \cf11 barnen\cf5 [i];\
+            \}\
+            \cf11 antal\cf5 ++;\
+            
+\f2\b \cf6 delete
+\f1\b0 \cf5  [] \cf11 barnen\cf5 ;\
+            \cf11 barnen\cf5  = temp;\
+        \}\
+    \}\
+\}\
+\
+
+\f2\b \cf6 bool
+\f1\b0 \cf5  \cf13 Skolklass\cf5 ::\cf9 finns\cf5 ( 
+\f2\b \cf6 int
+\f1\b0 \cf5  nr, 
+\f2\b \cf6 int
+\f1\b0 \cf5  & i )\{\
+    
+\f2\b \cf6 for
+\f1\b0 \cf5  (
+\f2\b \cf6 int
+\f1\b0 \cf5  j=\cf12 0\cf5 ; j<\cf11 antal\cf5 ; j++) \{\
+        
+\f2\b \cf6 if
+\f1\b0 \cf5  (nr == \cf11 barnen\cf5 [j].\cf11 hamtaRegnr\cf5 ()) \{\
+            i = j;\
+            
+\f2\b \cf6 return
+\f1\b0 \cf5  
+\f2\b \cf6 true
+\f1\b0 \cf5 ;\
+        \}\
+    \}\
+    
+\f2\b \cf6 return
+\f1\b0 \cf5  
+\f2\b \cf6 false
+\f1\b0 \cf5 ;\
+\}
+\f0 \cf0 \cb1 \
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf0 \
+\
+}
